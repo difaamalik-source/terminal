@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gomining": {
+      "type": "http",
+      "url": "${GOMINING_MCP_URL}"
+    }
+  }
+}
